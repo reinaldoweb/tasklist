@@ -6,7 +6,6 @@ import Task from '../app/models/Task';
 
 const models = [User, Task];
 
-
 class Database{
   constructor(){
     this.init();
